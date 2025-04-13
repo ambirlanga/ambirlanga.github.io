@@ -1,6 +1,6 @@
 # Github website
 
-Collection of gihub based webpages I have worked on.
+Collection of github based webpages I have worked on.
 
 
 ## Air quality visualization (simulated)
